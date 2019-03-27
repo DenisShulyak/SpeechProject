@@ -1,0 +1,12 @@
+c:\users\user\source\repos\SpeechProject\SpeechProject\bin\Debug\SpeechProject.exe.config
+c:\users\user\source\repos\SpeechProject\SpeechProject\bin\Debug\SpeechProject.exe
+c:\users\user\source\repos\SpeechProject\SpeechProject\bin\Debug\SpeechProject.pdb
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csprojAssemblyReference.cache
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.Form1.resources
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.Properties.Resources.resources
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.GenerateResource.cache
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.exe
+c:\users\user\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.pdb
+C:\Users\User\source\repos\SpeechProject\SpeechProject\bin\Debug\Microsoft.Speech.dll
+C:\Users\User\source\repos\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.CopyComplete
